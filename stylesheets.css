@@ -1,1 +1,8 @@
-h1 {font-family: 'Times New Roman', Times, serif;}
+element.style {
+    font-family: math;
+}
+body.style {
+    font-family: math;
+}
+
+h1 {font-family: inherit ;}
