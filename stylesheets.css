@@ -7,3 +7,8 @@ body.style {
 }
 
 p {color: brown;}
+
+table {
+    border-width: 1px;
+    border-color: black;
+}
