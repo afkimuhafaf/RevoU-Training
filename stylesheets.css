@@ -8,8 +8,6 @@ body.style {
 
 p {color: brown;}
 
-table, th, td, tbody {
-    color: black;
-    border: 1px;
-    border-color: black;
+table, th, td {
+    border: 1px solid black;
 }
